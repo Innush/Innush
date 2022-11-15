@@ -1,4 +1,4 @@
-<!--
+
 <div id="header" align="center">
   <img scr="https://media.giphy.com/media/jCRobkNa7UrCrIz4zM/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
