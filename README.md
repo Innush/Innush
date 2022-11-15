@@ -1,6 +1,13 @@
+<!--
+<div id="header" align="center">
+  <img scr="https://media.giphy.com/media/jCRobkNa7UrCrIz4zM/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
+  <img scr="https://media.giphy.com/media/ObZ7fBhu00xqNojNdK/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 
-<!--
+
 **Innush/Innush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
