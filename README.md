@@ -1,8 +1,8 @@
 
-<div id="header" align="center" text-align="center">
-  <img scr="https://media.giphy.com/media/jCRobkNa7UrCrIz4zM/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
-  <img scr="https://media.giphy.com/media/ObZ7fBhu00xqNojNdK/giphy.gif" width="100"/>
+<div id="header" align="center">
+  <img scr="https://media.giphy.com/media/jCRobkNa7UrCrIz4zM/giphy.gif" alt ="" width="100"/>
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt ="" width="100"/>
+  <img scr="https://media.giphy.com/media/ObZ7fBhu00xqNojNdK/giphy.gif" alt ="" width="100"/>
 </div>
 
 ### Hi there 👋
